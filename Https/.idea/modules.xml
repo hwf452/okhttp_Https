@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Https.iml" filepath="$PROJECT_DIR$/Https.iml" group="Https" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Https-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Https-app.iml" group="Https/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Https/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/okhttp_Https-Https.iml" filepath="$PROJECT_DIR$/.idea/modules/okhttp_Https-Https.iml" group="Https" />
     </modules>
   </component>
 </project>
